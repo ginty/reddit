@@ -1,0 +1,36 @@
+rerun.txt
+.bundle
+db/*.sqlite3
+log/*.log
+tmp/**/*
+tmp/*
+coverage/*
+*.geany
+*.swp
+*.swo
+*.*~
+gems
+.gems
+
+# Other useful tidbits
+.DS_Store
+doc/api
+doc/app
+
+# RubyMine stuff
+.idea/workspace.xml
+.idea/dictionaries/*
+.idea/fileColors.xml
+.idea/spellchecker.xml
+.idea/salonsquirrel.iml
+app/stylesheets/.sass-cache
+.idea/*
+
+.sass-cache/
+vendor/ruby
+public/assets
+
+static/tmp
+static/output
+
+chromedriver.log
